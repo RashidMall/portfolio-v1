@@ -1,0 +1,30 @@
+{
+  "name": "portfolio-v1",
+  "version": "1.0.0",
+  "description": "Portfolio\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[CMy Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RashidMall/portfolio-v1.git"
+  },
+  "author": "Rashid Mall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RashidMall/portfolio-v1/issues"
+  },
+  "homepage": "https://github.com/RashidMall/portfolio-v1#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.5"
+  }
+}
