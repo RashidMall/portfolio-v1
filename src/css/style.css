@@ -32,6 +32,9 @@ h1 {
 #badges .svg {
   height: 100%; }
 
+#skills .card-header {
+  cursor: pointer; }
+
 #projects img {
   width: 100%; }
 

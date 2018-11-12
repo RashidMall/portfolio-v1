@@ -48,6 +48,12 @@ h1 {
     }
 }
 
+#skills {
+    .card-header {
+        cursor: pointer;
+    }
+}
+
 #projects {
     img {
         width: 100%;
