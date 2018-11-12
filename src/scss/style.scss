@@ -5,6 +5,10 @@ body {
     margin-top: 108px;
 }
 
+h1 {
+    font-weight: bold;
+}
+
 .navbar {
     box-shadow: 2px 2px 5px $primary;
     opacity: 0.9;
@@ -41,6 +45,15 @@ body {
     }
     .svg {
         height: 100%;
+    }
+}
+
+#projects {
+    img {
+        width: 100%;
+    }
+    li {
+        margin-top: 4px;
     }
 }
 

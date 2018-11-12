@@ -1,6 +1,9 @@
 body {
   margin-top: 108px; }
 
+h1 {
+  font-weight: bold; }
+
 .navbar {
   box-shadow: 2px 2px 5px #ff0099;
   opacity: 0.9;
@@ -28,6 +31,12 @@ body {
 
 #badges .svg {
   height: 100%; }
+
+#projects img {
+  width: 100%; }
+
+#projects li {
+  margin-top: 4px; }
 
 #main-footer {
   background: linear-gradient(to right, rgba(255, 0, 153, 0.8), rgba(73, 50, 64, 0.8)); }
