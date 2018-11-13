@@ -49,8 +49,9 @@ h1 {
 }
 
 #skills {
-    .card-header {
+    .card-header:hover {
         cursor: pointer;
+        background-color: white;
     }
 }
 
