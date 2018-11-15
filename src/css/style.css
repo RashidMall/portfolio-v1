@@ -26,6 +26,9 @@ h1 {
     width: 100%;
     height: 100%; }
 
+#badges a {
+  color: white; }
+
 #badges img {
   width: 100%; }
 
