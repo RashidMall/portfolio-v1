@@ -1,5 +1,5 @@
 body {
-  margin-top: 100px; }
+  margin-top: 108px; }
 
 h1 {
   font-weight: bold; }
@@ -28,6 +28,9 @@ h1 {
 
 #badges a {
   color: white; }
+
+#badges a:hover {
+  color: #ff0099; }
 
 #badges img {
   width: 100%; }
