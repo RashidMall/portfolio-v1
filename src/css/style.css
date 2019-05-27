@@ -29,6 +29,22 @@ h1 {
     #showcase {
       font-size: 5px;
       color: red; } }
+  @media screen and (max-width: 470px) {
+    #showcase {
+      min-height: 400px
+    }
+    #showcase h1 {
+      font-size: 2rem;
+    } 
+    #showcase p {
+      font-size: 1rem;
+    }
+  }
+  @media screen and (max-width: 770px){
+    .col-md-4 {
+      padding-bottom: 15px;
+    }
+  }
 
 #badges a {
   color: white; }
@@ -62,3 +78,7 @@ h1 {
 
 .skill-header {
   color: #ff0099; }
+
+.list-group-item {
+  border: none;
+}
